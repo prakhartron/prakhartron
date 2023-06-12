@@ -2,7 +2,9 @@
 <h3 align="center">git commit -m "Hello, I'm a Software Engineer"</h3>
 <!-- comment -->
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prakhar45srivastava/)](https://linkedin.com/in/prakhar45srivastava) 
+
 [![GITHUB Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/prakharsri45)](https://github.com/prakharsri45)
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/prakhartron)](https://twitter.com/prakhartron)
 
 - 👨‍💻 All about me is at [Portfolio](https://prakharsri45.github.io/)
